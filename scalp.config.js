@@ -1,8 +1,8 @@
 module.exports = {
-    "my-app-variable": {
+    "my_variable_name": {
         "prompt": "please enter a variable for the app name"
     },
-    "my-app-name": {
+    "application_name": {
         "prompt": "what's the name of the application?"
     }
 };
