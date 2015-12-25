@@ -1,0 +1,23 @@
+{
+  "name": "scalp_application_name",
+  "version": "1.0.0",
+  "description": "simple node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bare-bones/scalp-simple.git"
+  },
+  "keywords": [
+    "scalp",
+    "skeleton"
+  ],
+  "author": "Ben Monro <ben.monro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bare-bones/scalp-simple/issues"
+  },
+  "homepage": "https://github.com/bare-bones/scalp-simple#readme"
+}
